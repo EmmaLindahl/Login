@@ -1,0 +1,7 @@
+To do in project:
+
+1- Be able to remove user
+2- Be able to log out
+
+5-Frontend:
+    make it look nice

@@ -1,0 +1,25 @@
+# Ignore node_modules in both frontend and backend
+node_modules/
+frontend/node_modules/
+backend/node_modules/
+
+# Logs
+*.log
+
+# OS files
+.DS_Store
+Thumbs.db
+
+# dotenv
+.env
+.env.local
+
+# Build outputs
+frontend/dist/
+frontend/build/
+backend/dist/
+backend/build/
+
+# IDEs
+.vscode/
+.idea/
